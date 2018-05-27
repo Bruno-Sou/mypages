@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+Site pages = {%- site.pages -%}
+
