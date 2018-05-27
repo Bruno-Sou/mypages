@@ -7,4 +7,4 @@ permalink: /about2/
 ## This is ABOUT2 page
 
 
-Site pages = {{ site.pages | map : "paths" }}
+Site pages = {{ site.pages | map: "path" }}
