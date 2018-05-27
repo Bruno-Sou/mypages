@@ -5,5 +5,5 @@
 layout: home
 ---
 
-Site pages = {%- site.pages -%}
+Site pages = {{ site.pages }}
 
