@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About2
-permalink: /about2/
+title: "Page list"
+permalink: /page/list/
 ---
 
-## This is ABOUT2 page
+## This is the list of pages available programatically
 
 
 Site pages = {{ site.pages | map: "path" | join: " , " }}
