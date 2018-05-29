@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Bienvenue !"
+# Settig a title will make the page appear in the top page menu
+# title: "Welcome !"
 ---
 
 
