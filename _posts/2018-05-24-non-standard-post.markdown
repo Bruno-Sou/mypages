@@ -6,4 +6,10 @@ categories: jekyll update
 ---
 
 
-This is my non standard post content ...
+This is my test post.<!-more->
+Bla bla bla bla bla bla, bla bla bla. Bla bla bla bla bla bla, bla bla blaBla bla bla bla bla bla, bla bla bla
+Bla bla bla bla bla bla, bla bla blaBla bla bla bla bla bla, bla bla bla
+Bla bla bla bla bla bla, bla bla blaBla bla bla bla bla bla, bla bla bla
+Bla bla bla bla bla bla, bla bla blaBla bla bla bla bla bla, bla bla bla
+Bla bla bla bla bla bla, bla bla blaBla bla bla bla bla bla, bla bla blaBla bla bla bla bla bla, bla bla bla
+Bla bla bla bla bla bla, bla bla blaBla bla bla bla bla bla, bla bla bla <aside>Ceci est un commentaire du texte principal</aside> Bla bla bla bla bla bla, bla bla blaBla bla bla bla bla bla, bla bla blaBla bla bla bla bla bla, bla bla bla Bla bla bla bla bla bla, bla bla blaBla bla bla bla bla bla, bla bla blaBla bla bla bla bla bla, bla bla bla.

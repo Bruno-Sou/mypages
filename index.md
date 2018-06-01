@@ -7,4 +7,6 @@ layout: home
 # title: "Welcome !"
 ---
 
+This text comes from the *index.md* file.
 
+It will appear **before** the post listing.
