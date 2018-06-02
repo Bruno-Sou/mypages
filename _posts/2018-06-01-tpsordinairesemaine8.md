@@ -1,5 +1,5 @@
 ---
-title: "Venderid de la 8ème semaine du temps ordinaire"
+title: "Vendredi de la 8ème semaine du temps ordinaire"
 layout: postcategories: semaine
 tags: 
 ---
