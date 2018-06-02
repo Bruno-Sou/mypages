@@ -17,21 +17,20 @@ en vue de la vie éternelle.
     Ceux qui sont hésitants, prenez-les en pitié ;
     d’autres, sauvez-les en les arrachant au feu ;
 
-#d’autres enfin, prenez-les aussi en pitié,
-mais avec crainte,
+d’autres enfin, prenez-les aussi en pitié,
+Mais avec crainte,
 en détestant jusqu’au vêtement souillé par leur chair.
     À Celui qui peut vous préserver de la chute
 et vous faire tenir debout,
 irréprochables et pleins d’allégresse,
-en présence de sa gloire,
-    au Dieu unique, notre Sauveur,
+en présence de sa gloire,   au Dieu unique, notre Sauveur,
 par notre Seigneur Jésus Christ,
 gloire, majesté, souveraineté, pouvoir,
-avant tous les siècles,
+vant tous les siècles,
 maintenant et pour tous les siècles. Amen.
             – Parole du Seigneur.
             
-## Psaume # Ps 62-63, 2, 3-4, 5-6
+## Psaume Ps 62-63, 2, 3-4, 5-6
 R/ Mon âme a soif de toi, Seigneur mon Dieu !
 
 Dieu, tu es mon Dieu,
@@ -48,7 +47,7 @@ lever les mains en invoquant ton nom.
 Comme par un festin je serai rassasié ;
 la joie sur les lèvres, je dirai ta louange.
 
-## Évangile ##  (Mc 11, 27-33)
+## Évangile (Mc 11, 27-33)
 « Par quelle autorité fais-tu cela ? »
 Alléluia. Alléluia. 
 Que la parole du Christ habite en vous
