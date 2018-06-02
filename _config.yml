@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -29,6 +30,9 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  
+# Excerpt activation
+excerpt_show: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
