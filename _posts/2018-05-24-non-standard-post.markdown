@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Non standard ... but working !"
-
+excerpt: "ceci est la bande annonce"
 categories: jekyll update
 ---
 
