@@ -1,7 +1,6 @@
 ---
-title: "vendredi de la 8e semaine du temps ordinaire"
-layout: post
-categories: semaine
+title: "Vendredi de la 8 semaine du temps ordinaire"
+layout: postcategories: semaine
 tags: 
 ---
 ## Première lecture (Jude 17.20b-25)
@@ -11,8 +10,7 @@ Bien-aimés,
 souvenez-vous des paroles dites à l’avance
 par les Apôtres de notre Seigneur Jésus Christ.
     Construisez votre vie sur votre foi très sainte,
-priez dans l’Esprit Saint,
-    gardez-vous dans l’amour de Dieu,
+priez dans l’Esprit Saint,    gardez-vous dans l’amour de Dieu,
 attendant la miséricorde de notre Seigneur Jésus Christ
 en vue de la vie éternelle.
     Ceux qui sont hésitants, prenez-les en pitié ;
@@ -32,7 +30,7 @@ avant tous les siècles,
 maintenant et pour tous les siècles. Amen.
             – Parole du Seigneur.
             
-## Psaume ## Ps 62-63, 2, 3-4, 5-6
+## Psaume # Ps 62-63, 2, 3-4, 5-6
 R/ Mon âme a soif de toi, Seigneur mon Dieu !
 
 Dieu, tu es mon Dieu,
