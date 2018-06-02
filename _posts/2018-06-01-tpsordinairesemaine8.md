@@ -5,7 +5,7 @@ categories: semaine
 tags: 1Pierre Ps9596 Marc  
 ---
 
-[Télécharger](https://bruno-sou.github.io/mypages/pj/06-01_Messe_du_vendredi_1er_juin_2018.pdf) la méditation du 1er juin 2018
+[Télécharger](https://bruno-sou.github.io/mypages/blob/master/pj/06-01_Messe_du_vendredi_1er_juin_2018.pdf) la méditation du 1er juin 2018
 
 ## Première lecture (1 P 4, 7-13)
 « Soyez de bons gérants de la grâce de Dieu qui est si diverse »
