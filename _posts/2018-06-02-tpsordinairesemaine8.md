@@ -5,7 +5,7 @@ categories: semaine
 tags: Jude Ps62-63 Marc  
 ---
 
-[Télécharger](https://bruno-sou.github.io/mypages/pj/06-02_Messe_du_samedi_2 juin_2018.pdf) la méditation du 2 juin 2018
+[Télécharger](https://bruno-sou.github.io/mypages/pj/06-02_Messe_du_samedi_2_juin_2018.pdf) la méditation du 2 juin 2018
 
 ## Première lecture (Jude 17.20b-25)
 « Dieu peut vous préserver de la chute et vous faire tenir debout, irréprochables, en présence de sa gloire »
