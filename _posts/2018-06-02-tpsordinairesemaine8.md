@@ -1,5 +1,5 @@
 ---
-title: "Vendredi de la 8ème semaine du temps ordinaire"
+title: "Samedi de la 8ème semaine du temps ordinaire"
 layout: post
 categories: semaine
 tags: Jude Ps62-63 Marc  
