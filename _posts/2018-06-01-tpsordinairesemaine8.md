@@ -1,7 +1,7 @@
 ---
-title: "Vendredi de la 8ème semaine du temps ordinaire"
+title: Vendredi de la 8ème semaine du temps ordinaire
 layout: postcategories: semaine
-tags: 
+tags: Jude Ps62-63 Marc  
 ---
 ## Première lecture (Jude 17.20b-25)
 « Dieu peut vous préserver de la chute et vous faire tenir debout, irréprochables, en présence de sa gloire »
