@@ -1,6 +1,7 @@
 ---
-title: Vendredi de la 8ème semaine du temps ordinaire
-layout: postcategories: semaine
+title: "Vendredi de la 8ème semaine du temps ordinaire"
+layout: post
+categories: semaine
 tags: Jude Ps62-63 Marc  
 ---
 ## Première lecture (Jude 17.20b-25)
