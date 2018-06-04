@@ -5,13 +5,14 @@ categories: semaine
 tags: 2P1 Ps90 Marc12,1-12 
 ---
 
+[Télécharger](https://bruno-sou.github.io/mypages/pj/2018-06-01_Messe_du_lundi_04_juin_2018.pdf) la méditation du 4 juin 2018
+
 ## Première lecture (2 P 1, 2-7)
 « Les dons promis, si précieux, nous sont accordés,
 pour que, par eux, vous deveniez participants de la nature divine »
 
 Bien-aimés, que la grâce et la paix vous soient accordées en abondance
-par la vraie connaissance de Dieu et de Jésus notre Seigneur.
-Sa puissance divine nous a fait don de tout ce qui permet de vivre avec piété,
+par la vraie connaissance de Dieu et de Jésus notre Seigneur.Sa puissance divine nous a fait don de tout ce qui permet de vivre avec piété,
 grâce à la vraie connaissance de celui qui nous a appelés par la gloire et la force qui Lui appartiennent.
 De la sorte nous sont accordés les dons promis, si précieux et si grands,
 pour que, par eux, vous deveniez participants de la nature divine,
@@ -28,7 +29,7 @@ Et pour ces motifs, faites tous vos efforts pour joindre
 
 ## Psaume Ps 90, 1-2, 14-15ab, 15c-16
 R/ Mon Dieu, je suis sûr de toi !
-
+ 
 Quand je me tiens sous l’abri du Très-Haut
 et repose à l’ombre du Puissant,
 je dis au Seigneur : « Mon refuge,
@@ -74,7 +75,7 @@ Les chefs du peuple cherchaient à arrêter Jésus, mais ils eurent peur de la f
 Ils le laissèrent donc et s’en allèrent.
             – Acclamons la Parole de Dieu.
 
-[Le même récit dans l’évangile selon St Luc (chapitre 24)
+## Le même récit dans l’évangile selon St Luc (chapitre 24)
 aelf.org (traduction de la liturgie catholique)
  
 9 Il se mit à dire au peuple la parabole que voici : 
