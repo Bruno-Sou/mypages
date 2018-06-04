@@ -2,7 +2,7 @@
 title: "Samedi de la 8ème semaine du temps ordinaire"
 layout: post
 categories: semaine
-tags: Jude Ps62-63 Marc  
+tags: Jude Ps62-63 Marc11,27-33  
 ---
 
 [Télécharger](https://bruno-sou.github.io/mypages/pj/06-02_Messe_du_samedi_2_juin_2018.pdf) la méditation du 2 juin 2018
