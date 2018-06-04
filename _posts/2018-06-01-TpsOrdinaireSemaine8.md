@@ -1,8 +1,8 @@
----
-title: "Vendredi de la 8ème semaine du temps ordinaire"
+----
+title: "Vendredi_de_la_8ème_semaine_du_temps_ordinaire"
 layout: post
 categories: semaine
-tags: 1Pierre Ps9596 Marc  
+tags: 1Pierre Ps95-96 Marc  
 ---
 
 [Télécharger](https://bruno-sou.github.io/mypages//pj/06-01_Messe_du_vendredi_1er_juin_2018.pdf) la méditation du 1er juin 2018
