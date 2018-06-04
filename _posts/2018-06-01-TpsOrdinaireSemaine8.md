@@ -1,4 +1,4 @@
--
+---
 title: "Vendredi de la 8ème semaine du temps ordinaire"
 layout: post
 categories: semaine
