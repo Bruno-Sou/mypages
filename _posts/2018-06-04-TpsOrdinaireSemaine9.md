@@ -1,5 +1,5 @@
 ---
-title: "Vendredi de la 8ème semaine du temps ordinaire"
+title: "Lundi de la 9ème semaine du temps ordinaire"
 layout: post
 categories: semaine
 tags: 2P1 Ps90 Marc12,1-12 
