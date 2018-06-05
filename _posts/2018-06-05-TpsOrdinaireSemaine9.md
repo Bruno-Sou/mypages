@@ -4,7 +4,7 @@ layout: post
 categories: semaine
 tags: 2Pierre3 Ps89-90 Marc12  
 ---
-[Télécharger](https://bruno-sou.github.io/mypages/pj/06-05_Messe_du_mardi_5_juin_2018.pdf) la méditation du 5 juin 2018
+[Télécharger](https://bruno-sou.github.io/mypages/pj/06-05-Messe_du_mardi_5_juin_2018.pdf) la méditation du 5 juin 2018
 
 ## Première lecture (2 P 3, 12-15a.17-18)
 « Ce que nous attendons, c’est un ciel nouveau et une terre nouvelle »
