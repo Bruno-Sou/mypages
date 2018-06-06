@@ -5,6 +5,9 @@ date: 2017-12-03
 categories: semaine
 tags: 2Timothée Ps122-123 Marc12  
 ---
+
+[Télécharger](https://bruno-sou.github.io/mypages/pj/2017-12-03_Messe_du_1er_dimanche_de_l_Avent_3_déc_2017.pdf) méditation du 3 décembre 2017
+
 ## Première lecture (Is 63, 16b-17.19b ; 64, 2b-7)
 « Ah ! Si tu déchirais les cieux, si tu descendais ! »
 
