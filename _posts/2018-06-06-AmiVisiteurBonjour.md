@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Ami visiteur, bonjour"
-
 ---
 
 # Ami visiteur, bonjour !
