@@ -5,7 +5,7 @@ categories: semaine
 tags: 2P1 Ps90 Marc12,1-12 
 ---
 
-[Télécharger](https://bruno-sou.github.io/mypages/pj/2018-06-01_Messe_du_lundi_04_juin_2018.pdf) la méditation du 4 juin 2018
+[Télécharger](https://bruno-sou.github.io/mypages/pj/2018-06-04_Messe_du_lundi_04_juin_2018.pdf) la méditation du 4 juin 2018
 
 ## Première lecture (2 P 1, 2-7)
 « Les dons promis, si précieux, nous sont accordés,
