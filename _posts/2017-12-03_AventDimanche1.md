@@ -1,9 +1,9 @@
----
+ ---
 title: "1er Dimanche de l'Avent 2017"
 layout: post
 date: 2017-12-03
 categories: semaine
-tags: 2Timothée Ps122-123 Marc12  
+tags: Is63 Ps79-80 1Co1 Marc13  
 ---
 
 [Télécharger](https://bruno-sou.github.io/mypages/pj/2017-12-03_Messe_du_1er_dimanche_de_l_Avent_3_déc_2017.pdf) méditation du 3 décembre 2017
