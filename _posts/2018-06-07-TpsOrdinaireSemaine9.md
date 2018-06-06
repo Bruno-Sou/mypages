@@ -1,9 +1,10 @@
----
+--
 title: "Mercredi de la 9ème semaine du temps ordinaire"
 layout: post
 categories: semaine
 tags: 2Timothée Ps122-123 Marc12  
 ---
+
 [Télécharger](https://bruno-sou.github.io/mypages/pj/2018-06-07_Messe_du_mercredi_07_juin_2018.pdf) méditation du 7 juin 2018
 
 ## Première lecture (2 Tm 1, 1-3 ; 6-12)
