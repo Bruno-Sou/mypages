@@ -1,5 +1,5 @@
 ---
-title: "Mercredi de la 9ème semaine du temps ordinaire"
+title: "1er Dimanche de l'Avent 2017"
 layout: post
 date: 2017-12-03
 categories: semaine
