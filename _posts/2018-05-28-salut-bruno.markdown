@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Bonjour Bruno !"
+title: "Ami visiteur, bonjour"
 
 ---
 
-# Bonjour Bruno !
+# Ami visiteur, bonjour !
 
-Amuse-toi avec ce site pour te familiariser avant de créer ton propre site ..
+Ce site est là pour partager ce que j'ai découvert sur la Bible,
+notamment avec les homélies, 
+pour m'aider à "mettre en pratique" la Parole de Dieu.
 
-Amicalement,
- 
-Xavier
+Pour toute réaction ou question : bruno.soucachet@gmail.com
