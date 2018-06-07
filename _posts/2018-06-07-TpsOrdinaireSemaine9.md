@@ -1,5 +1,5 @@
 ---
-title: "Mercredi de la 9ème semaine du temps ordinaire"
+title: "Jeudi de la 9ème semaine du temps ordinaire"
 layout: post
 categories: semaine
 tags: 2Timothée Ps24-25 Marc12  
