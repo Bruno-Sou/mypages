@@ -5,7 +5,7 @@ categories: semaine
 tags: 2Timothée Ps24-25 Marc12  
 ---
 
-[Télécharger](https://bruno-sou.github.io/mypages/pj/2018-06-07_Messe_du_jeudi_7_juin 2018.pdf) méditation du 7 juin 2018
+[Télécharger](https://bruno-sou.github.io/mypages/pj/2018-06-07_Messe_du_jeudi_7_juin_2018.pdf) méditation du 7 juin 2018
 
 ## Première lecture (2 Tm 2, 8-15)
 « On n’enchaîne pas la parole de Dieu ! Si nous sommes morts avec le Christ, avec lui nous vivrons »
