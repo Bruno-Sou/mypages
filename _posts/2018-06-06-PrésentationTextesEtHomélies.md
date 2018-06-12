@@ -1,5 +1,6 @@
 ---
 layout: post
+title:  "Accueil"
 title:  "Comment sont présentés les textes et les homélies"
 date:   2018-06-06
 categories: Plan
