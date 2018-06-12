@@ -1,4 +1,5 @@
 ---
+title: accueil
 layout: post
 title:  "Le Temps Liturgique pour découvrir ou méditer la Bible par petit morceaux cohérents"
 excerpt: "ceci est la bande annonce"
