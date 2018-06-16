@@ -43,3 +43,12 @@ excerpt_show: true
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Default front-matter settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      list_title: "Dernières homélies"
