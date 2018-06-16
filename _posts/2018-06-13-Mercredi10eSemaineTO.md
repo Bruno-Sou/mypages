@@ -4,6 +4,7 @@ layout: post
 categories: fetes
 tags: 1Rois18 Ps15-16 Mt5 
 ---
+
 [Télécharger](https://bruno-sou.github.io/mypages/pj/2018-06-13_Messe du mercredi 13 juin 2018.pdf] Méditation du mercredi 13 juin 2018
 
 ## Première lecture (1 Rois 18, 20-39)
