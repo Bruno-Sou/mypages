@@ -3,6 +3,7 @@ layout: page
 title:  "Plan"
 date:   2018-06-06
 categories: Plan
+permalink: /plan/
 ---
 
 Les textes sont présentés dans la traduction de la liturgie catholique (cf aelf.org).
