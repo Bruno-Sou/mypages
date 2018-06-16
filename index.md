@@ -4,9 +4,13 @@
 
 layout: home
 # Settig a title will make the page appear in the top page menu
-# title: "Welcome !"
+title: "Bienvenue"
 ---
 
-This text comes from the *index.md* file.
+# Ami visiteur, bonjour !
 
-It will appear **before** the post listing.
+Ce site est là pour partager ce que j'ai découvert sur la Bible,
+notamment avec les homélies,
+pour m'aider à "mettre en pratique" la Parole de Dieu.
+
+Pour toute réaction ou question : [bruno.soucachet@gmail.com](mailto:bruno.soucachet@gmail.com)

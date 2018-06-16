@@ -6,7 +6,7 @@ categories: dimanche_ou_fete
 tags: Is63 Ps79-80 1Co1 Marc13  
 ---
 
-[Télécharger](https://bruno-sou.github.io/mypages/pj/2017-12-03_Messe_du_1er_dimanche_de_l_Avent_3_déc_2017.pdf) méditation du 3 décembre 2017
+[Télécharger]({{site.baseurl}}pj/2017-12-03_Messe_du_1er_dimanche_de_l_Avent_3_déc_2017.pdf) méditation du 3 décembre 2017
 
 ## Première lecture (Is 63, 16b-17.19b ; 64, 2b-7)
 « Ah ! Si tu déchirais les cieux, si tu descendais ! »
@@ -19,9 +19,9 @@ Reviens, à cause de Tes serviteurs, des tribus de Ton héritage.
 Ah ! Si Tu déchirais les cieux, si Tu descendais,
 les montagnes seraient ébranlées devant Ta face.
 Voici que Tu es descendu : les montagnes furent ébranlées devant Ta face.
-Jamais on n’a entendu, jamais on n’a ouï dire, nul œil n’a jamais vu 
+Jamais on n’a entendu, jamais on n’a ouï dire, nul œil n’a jamais vu
 un autre dieu que Toi agir ainsi pour celui qui l’attend.
-Tu viens rencontrer celui qui pratique avec joie la justice, 
+Tu viens rencontrer celui qui pratique avec joie la justice,
 qui se souvient de toi en suivant Tes chemins.
 Tu étais irrité, mais nous avons encore péché, et nous nous sommes égarés.
 Tous, nous étions comme des gens impurs, et tous nos actes justes n’étaient que linges souillés.
@@ -56,7 +56,7 @@ fais-nous vivre et invoquer Ton nom !
 Nous attendons de voir se révéler notre Seigneur Jésus Christ
 
 Frères, à vous, la grâce et la paix, de la part de Dieu notre Père et du Seigneur Jésus Christ.
-Je ne cesse de rendre grâce à Dieu à votre sujet, pour la grâce qu’Il vous a donnée dans le Christ Jésus ; 
+Je ne cesse de rendre grâce à Dieu à votre sujet, pour la grâce qu’Il vous a donnée dans le Christ Jésus ;
 en Lui vous avez reçu toutes les richesses, toutes celles de la Parole et de la connaissance de Dieu.
 Car le témoignage rendu au Christ s’est établi fermement parmi vous.
 
@@ -64,7 +64,7 @@ Ainsi, aucun don de grâce ne vous manque,
 à vous qui attendez de voir se révéler notre Seigneur Jésus Christ.
 C’est Lui qui vous fera tenir fermement jusqu’au bout,
 et vous serez sans reproche au jour de notre Seigneur Jésus Christ.
-Car Dieu est fidèle, 
+Car Dieu est fidèle,
 Lui qui vous a appelés à vivre en communion avec son Fils, Jésus Christ notre Seigneur.
 
 – Parole du Seigneur.
@@ -82,7 +82,7 @@ C’est comme un homme parti en voyage :
 en quittant sa maison, Il a donné tout pouvoir à ses serviteurs,
 fixé à chacun son travail, et demandé au portier de veiller
 
-Veillez donc, car vous ne savez pas quand vient le maître de la maison, 
+Veillez donc, car vous ne savez pas quand vient le maître de la maison,
 le soir ou à minuit, au chant du coq ou le matin ;
 s’il arrive à l’improviste, il ne faudrait pas qu’il vous trouve endormis.
 Ce que je vous dis là, je le dis à tous : Veillez ! »

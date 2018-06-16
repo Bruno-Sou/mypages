@@ -5,7 +5,7 @@ categories: semaine
 tags: Jude Ps62-63 Marc11,27-33  
 ---
 
-[Télécharger](https://bruno-sou.github.io/mypages/pj/06-02_Messe_du_samedi_2_juin_2018.pdf) la méditation du 2 juin 2018
+[Télécharger]({{site.baseurl}}pj/06-02_Messe_du_samedi_2_juin_2018.pdf) la méditation du 2 juin 2018
 
 ## Première lecture (Jude 17.20b-25)
 « Dieu peut vous préserver de la chute et vous faire tenir debout, irréprochables, en présence de sa gloire »
@@ -32,7 +32,7 @@ gloire, majesté, souveraineté, pouvoir,
 vant tous les siècles,
 maintenant et pour tous les siècles. Amen.
             – Parole du Seigneur.
-            
+
 ## Psaume Ps 62-63, 2, 3-4, 5-6
 R/ Mon âme a soif de toi, Seigneur mon Dieu !
 
@@ -52,7 +52,7 @@ la joie sur les lèvres, je dirai ta louange.
 
 ## Évangile (Mc 11, 27-33)
 « Par quelle autorité fais-tu cela ? »
-Alléluia. Alléluia. 
+Alléluia. Alléluia.
 Que la parole du Christ habite en vous
 dans toute sa richesse,
 et offrez par lui votre action de grâce à Dieu le Père.

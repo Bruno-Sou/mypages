@@ -5,7 +5,7 @@ categories: semaine
 tags: 2Timothée Ps122-123 Marc12  
 ---
 
-[Télécharger](https://bruno-sou.github.io/mypages/pj/2018-06-06_Messe_du_mercredi_06_juin_2018.pdf) méditation du 6 juin 2018
+[Télécharger]({{site.baseurl}}pj/2018-06-06_Messe_du_mercredi_6_juin_2018.pdf) méditation du 6 juin 2018
 
 ## Première lecture (2 Tm 1, 1-3 ; 6-12)
 « Ravive le don gratuit de Dieu, ce don qui est en toi depuis que je t’ai imposé les mains »
@@ -36,7 +36,7 @@ pour lequel j’ai reçu la charge de messager, d’apôtre et d’enseignant.
 Et c’est pour cette raison que je souffre ainsi ;
 mais je n’en ai pas honte, car je sais en qui j’ai cru,
 et j’ai la conviction qu’Il est assez puissant pour sauvegarder, jusqu’au jour de Sa venue,
-le dépôt de la foi qu’Il m’a confié. 
+le dépôt de la foi qu’Il m’a confié.
             – Parole du Seigneur.
 
 ## Psaume Ps 122 (123), 1-2ab, 2cdef
@@ -52,7 +52,7 @@ vers la main de sa maîtresse,
 nos yeux, levés vers le Seigneur notre Dieu,
 attendent Sa pitié.
 
- 
+
 ## Acclamation (cf. Jn 11, 25a-26)
 Moi, je suis la résurrection et la vie, dit le Seigneur.
 Celui qui croit en moi ne mourra jamais.
@@ -81,7 +81,7 @@ Jésus leur dit :
 Lorsqu’on ressuscite d’entre les morts, on ne prend ni femme ni mari,
 mais on est comme les anges dans les cieux.
 
-Et sur le fait que les morts ressuscitent, 
+Et sur le fait que les morts ressuscitent,
 n’avez-vous pas lu dans le livre de Moïse,
 au récit du buisson ardent, comment Dieu lui a dit :
 
@@ -93,5 +93,3 @@ Il n’est pas le Dieu des morts, mais des vivants.
 Vous vous égarez complètement. »
 
 – Acclamons la Parole de Dieu.
-
-

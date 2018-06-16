@@ -5,7 +5,7 @@ categories: semaine
 tags: 2Pierre3 Ps89-90 Marc12  
 ---
 
-[Télécharger](https://bruno-sou.github.io/mypages/pj/2018-06-05_Messe_du_mardi_5_juin_2018.pdf) la méditation du 5 juin 2018
+[Télécharger]({{site.baseurl}}pj/2018-06-05_Messe_du_mardi_5_juin_2018.pdf) la méditation du 5 juin 2018
 
 ## Première lecture (2 P 3, 12-15a.17-18)
 « Ce que nous attendons, c’est un ciel nouveau et une terre nouvelle »
@@ -17,7 +17,7 @@ c’est un ciel nouveau et une terre nouvelle où résidera la justice.
 C’est pourquoi, bien-aimés, en attendant cela,
 faites tout pour qu’on vous trouve sans tache ni défaut, dans la paix.
 Et dites-vous bien que la longue patience de notre Seigneur, c’est votre salut.
-Quant à vous, bien-aimés, vous voilà prévenus ; prenez garde : 
+Quant à vous, bien-aimés, vous voilà prévenus ; prenez garde :
 ne vous laissez pas entraîner dans l’égarement des gens dévoyés,
 et n’abandonnez pas l’attitude de fermeté qui est la vôtre.
 Mais continuez à grandir dans la grâce et la connaissance de notre Seigneur et Sauveur, Jésus Christ.
@@ -56,10 +56,10 @@ Alléluia.
 ## Évangile (Mc 12, 13-17)
 « Ce qui est à César, rendez-le à César, et à Dieu ce qui est à Dieu. »
 
-On envoya à Jésus des pharisiens et des partisans d’Hérode 
+On envoya à Jésus des pharisiens et des partisans d’Hérode
 pour lui tendre un piège en Le faisant parler, et ceux-ci vinrent lui dire :
 « Maître, nous le savons : tu es toujours vrai ;
-tu ne te laisses influencer par personne, 
+tu ne te laisses influencer par personne,
 car ce n’est pas selon l’apparence que tu considères les gens,
 mais Tu enseignes le chemin de Dieu selon la vérité.
 Est-il permis, oui ou non, de payer l’impôt à César, l’empereur ?

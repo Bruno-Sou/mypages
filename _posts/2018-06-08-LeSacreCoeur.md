@@ -2,10 +2,10 @@
 title: "Fête du Sacré Cœur année B"
 layout: post
 categories: fetes
-tags: Osée11 Isaie12-Eph3 Jn19 
+tags: Osée11 Isaie12-Eph3 Jn19
 ---
 
-[Télécharger](https://bruno-sou.github.io/mypages/pj/2018-06-08_Messe du vendredi 8 juin 2018 (Le Sacré Coeur).pdf) méditation du 8 juin 2018
+[Télécharger]({{site.baseurl}}pj/2018-06-08_Messe_du_vendredi_8_juin_2018_Le_Sacre_Coeur.pdf) méditation du 8 juin 2018
 
 ## Première lecture (Osée 11, 1.3-4.8c-9)
 « Mon cœur se retourne contre moi » - « Au milieu de vous je suis le Dieu saint »
@@ -18,7 +18,7 @@ et il n’a pas compris que je venais à son secours.
 Je le guidais avec humanité, par des liens d’amour ;
 je le traitais comme un nourrisson qu’on soulève tout contre sa joue ;
 je me penchais vers lui pour le faire manger.
-Mais ils ont refusé de revenir à moi. 
+Mais ils ont refusé de revenir à moi.
 
 Vais-je les livrer au châtiment ?
 Non ! Mon cœur se retourne contre moi ; en même temps, mes entrailles frémissent.
@@ -51,7 +51,7 @@ car Il est grand au milieu de toi, le Saint d’Israël !
 
 Frères, à moi qui suis vraiment le plus petit de tous les fidèles,
 la grâce a été donnée d’annoncer aux nations l’insondable richesse du Christ,
-et de mettre en lumière pour tous le contenu du mystère 
+et de mettre en lumière pour tous le contenu du mystère
 qui était caché depuis toujours en Dieu, le créateur de toutes choses ;
 ainsi, désormais, les Puissances célestes elles-mêmes connaissent, grâce à l’Église,
 les multiples aspects de la Sagesse de Dieu.
@@ -61,7 +61,7 @@ Et notre foi au Christ nous donne l’assurance nécessaire pour accéder auprè
 C’est pourquoi je tombe à genoux devant le Père,
 de qui toute paternité au ciel et sur la terre tient son nom.
 
-Lui qui est si riche en gloire, qu’Il vous donne la puissance de son Esprit, 
+Lui qui est si riche en gloire, qu’Il vous donne la puissance de son Esprit,
 pour que se fortifie en vous l’homme intérieur.
 Que le Christ habite en vos cœurs par la foi ; restez enracinés dans l’amour, établis dans l’amour.
 
@@ -78,9 +78,9 @@ Prenez sur vous mon joug, devenez mes disciples,
 car je suis doux et humble de cœur.
 Alléluia.
 
-ou : 
+ou :
 
-Dieu nous a aimés, 
+Dieu nous a aimés,
 Il a envoyé son Fils pour le pardon de nos péchés.
 Alléluia.
 

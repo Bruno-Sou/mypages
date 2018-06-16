@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Page list"
-permalink: /page/list/
+# layout: page
+# title: "Page list"
+# permalink: /page/list/
 ---
 
 ## This is the list of pages available programatically

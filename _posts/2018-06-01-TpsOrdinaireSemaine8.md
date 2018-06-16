@@ -5,17 +5,17 @@ categories: semaine
 tags: 1Pierre Ps95-96 Marc  
 ---
 
-[Télécharger](https://bruno-sou.github.io/mypages//pj/06-01_Messe_du_vendredi_1er_juin_2018.pdf) la méditation du 1er juin 2018
+[Télécharger]({{site.baseurl}}pj/06-01_Messe_du_vendredi_1er_juin_2018.pdf) la méditation du 1er juin 2018
 
 ## Première lecture (1 P 4, 7-13)
 « Soyez de bons gérants de la grâce de Dieu qui est si diverse »
 
 Bien-aimés, la fin de toutes choses est proche.
 Soyez donc raisonnables et sobres en vue de la prière.
-Avant tout, ayez entre vous une charité intense, 
+Avant tout, ayez entre vous une charité intense,
 car la charité couvre une multitude de péchés.
 Pratiquez l’hospitalité les uns envers les autres sans récriminer.
-Ce que chacun de vous a reçu comme don de la grâce, 
+Ce que chacun de vous a reçu comme don de la grâce,
 mettez-le au service des autres,
 en bons gérants de la grâce de Dieu qui est si diverse :
 Si quelqu’un parle, qu’il le fasse comme pour des paroles de Dieu ;
@@ -52,9 +52,9 @@ Alléluia.
 
 ## Évangile (Mc 11, 11-25)
 « Ma maison sera appelée maison de prière pour toutes les nations. Ayez foi en Dieu »
-Après son arrivée au milieu des acclamations de la foule, 
+Après son arrivée au milieu des acclamations de la foule,
 Jésus entra à Jérusalem, dans le Temple.
-Il parcourut du regard toutes choses 
+Il parcourut du regard toutes choses
 et, comme c’était déjà le soir, il sortit pour aller à Béthanie avec les Douze.
 Le lendemain, quand ils quittèrent Béthanie, il eut faim.
 Voyant de loin un figuier qui avait des feuilles, il alla voir s’il y trouverait quelque chose ;
@@ -79,7 +79,7 @@ Et quand le soir tomba, Jésus et ses disciples s’en allèrent hors de la vill
 « Rabbi, regarde : le figuier que tu as maudit est desséché. »
     Alors Jésus, prenant la parole, leur dit :
 « Ayez foi en Dieu.     Amen, je vous le dis :
-quiconque dira à cette montagne : “Enlève-toi de là, et va te jeter dans la mer”, 
+quiconque dira à cette montagne : “Enlève-toi de là, et va te jeter dans la mer”,
 s’il ne doute pas dans son cœur, mais s’il croit que ce qu’il dit arrivera, cela lui sera accordé !
     C’est pourquoi, je vous le dis :
 tout ce que vous demandez dans la prière, croyez que vous l’avez obtenu, et cela vous sera accordé.
