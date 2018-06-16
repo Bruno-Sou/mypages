@@ -4,6 +4,7 @@ layout: post
 categories: fetes
 tags: Osée11 Isaie12-Eph3 Jn19 
 ---
+
 [Télécharger](https://bruno-sou.github.io/mypages/pj/2018-06-08_Messe du vendredi 8 juin 2018 (Le Sacré Coeur).pdf) méditation du 8 juin 2018
 
 ## Première lecture (Osée 11, 1.3-4.8c-9)
