@@ -9,8 +9,8 @@ title: "Bienvenue"
 
 **Ami visiteur, bonjour !**
 
-__Ce site est là pour partager ce que j'ai découvert sur la Bible,
+_Ce site est là pour partager ce que j'ai découvert sur la Bible,
 notamment avec les homélies,
-pour m'aider à "mettre en pratique" la Parole de Dieu.__
+pour m'aider à "mettre en pratique" la Parole de Dieu._
 
 Pour toute réaction ou question : [bruno.soucachet@gmail.com](mailto:bruno.soucachet@gmail.com)
