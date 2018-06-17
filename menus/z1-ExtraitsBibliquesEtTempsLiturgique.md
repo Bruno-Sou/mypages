@@ -8,6 +8,8 @@ permalink: /temps_liturgique/
 
 ## Le Temps Liturgique pour découvrir ou méditer la Bible par petit morceaux cohérents
 
+![right 50]({{site.baseurl}}images/bigben.jpg)
+
 L'Eglise catholique a placé chaque jour dans un temps liturgique.
 Et elle propose une messe différente pour chaque jour.
 Avec 3 textes bibliques (4 le dimanche) :
