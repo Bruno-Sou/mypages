@@ -9,8 +9,13 @@ title: "Bienvenue"
 
 **Ami visiteur, bonjour !**
 
-_Ce site est là pour partager ce que j'ai découvert sur la Bible,
+![left 30]({{site.baseurl}}images/firstBible.jpg)
+
+*Ce site est là pour partager ce que j'ai découvert sur la Bible,
 notamment avec les homélies,
-pour m'aider à "mettre en pratique" la Parole de Dieu._
+pour m'aider à "mettre en pratique" la Parole de Dieu.*
 
 Pour toute réaction ou question : [bruno.soucachet@gmail.com](mailto:bruno.soucachet@gmail.com)
+
+<!-- this tag will clear the "floats" -->
+<clearfix></clearfix>

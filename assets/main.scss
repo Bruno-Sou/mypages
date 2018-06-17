@@ -1,0 +1,43 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+// Written by xavier268 - 17/6/2018
+
+// Importying theme stylesheet
+@import "minima";
+
+// variable definitions
+
+// custom styling for images
+img[alt~="right"] {
+  padding-left: 5%;
+  padding-bottom: 5%;
+  float:right;
+}
+
+img[alt~="left"] {
+  padding-right: 5%;
+  padding-bottom: 5%;
+  float:left;
+}
+
+img[alt~="20"] {
+  width: 20%;
+}
+
+img[alt~="30"] {
+  width: 30%;
+}
+img[alt~="50"] {
+  width: 50%;
+}
+
+img[alt~="100"] {
+  width: 100%;
+}
+// Hack - defining a pseudo tag to clear all floats
+clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
