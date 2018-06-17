@@ -7,9 +7,9 @@ layout: home
 title: "Bienvenue"
 ---
 
-**Ami visiteur, bonjour !**
-
 ![left 30]({{site.baseurl}}images/firstBible.jpg)
+
+**Ami visiteur, bonjour !**
 
 *Ce site est là pour partager ce que j'ai découvert sur la Bible,
 notamment avec les homélies,
