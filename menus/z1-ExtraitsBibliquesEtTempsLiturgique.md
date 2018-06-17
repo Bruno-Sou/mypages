@@ -17,9 +17,10 @@ Avec 3 textes bibliques (4 le dimanche) :
 - un psaume (ou parfois un cantique biblique)
 - une "deuxième lecture" (le dimanche et aux grandes fêtes)
 - un évangile.
+
 Ces textes sont donnés ensemble parce qu'ils s'éclairent mutuellement.
 
-Les grandes périodes du temps liturgique sont :
+Les grandes périodes du temps liturgique sont:
 - l'Avent
 - le temps de Noël
 - le temps "ordinaire"
