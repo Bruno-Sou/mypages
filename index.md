@@ -4,12 +4,12 @@
 
 layout: home
 # Settig a title will make the page appear in the top page menu
-title: "Bienvenue"
+title: "Ami visiteur, bonjour !"
 ---
 
 ![left 30]({{site.baseurl}}images/firstBible.jpg)
 
-**Ami visiteur, bonjour !**
+
 
 *Ce site est là pour partager ce que j'ai découvert sur la Bible,
 notamment avec les homélies,
