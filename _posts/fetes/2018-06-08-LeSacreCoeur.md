@@ -1,11 +1,9 @@
 ---
 title: "Fête du Sacré Cœur année B"
-layout: post
+layout: postpdf
 categories: fetes
 tags: Osée11 Isaie12-Eph3 Jn19
 ---
-
-[Télécharger]({{site.baseurl}}pj/2018-06-08_Messe_du_vendredi_8_juin_2018_Le_Sacre_Coeur.pdf) méditation du 8 juin 2018
 
 ## Première lecture (Osée 11, 1.3-4.8c-9)
 « Mon cœur se retourne contre moi » - « Au milieu de vous je suis le Dieu saint »

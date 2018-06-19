@@ -1,11 +1,9 @@
 ---
 title: "Samedi de la 8ème semaine du temps ordinaire"
-layout: post
+layout: postpdf
 categories: semaine
 tags: Jude Ps62-63 Marc11,27-33  
 ---
-
-[Télécharger]({{site.baseurl}}pj/06-02_Messe_du_samedi_2_juin_2018.pdf) la méditation du 2 juin 2018
 
 ## Première lecture (Jude 17.20b-25)
 « Dieu peut vous préserver de la chute et vous faire tenir debout, irréprochables, en présence de sa gloire »

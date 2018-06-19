@@ -1,11 +1,9 @@
 ---
 title: "Vendredi_de_la_8ème_semaine_du_temps_ordinaire"
-layout: post
+layout: postpdf
 categories: semaine
 tags: 1Pierre Ps95-96 Marc  
 ---
-
-[Télécharger]({{site.baseurl}}pj/06-01_Messe_du_vendredi_1er_juin_2018.pdf) la méditation du 1er juin 2018
 
 ## Première lecture (1 P 4, 7-13)
 « Soyez de bons gérants de la grâce de Dieu qui est si diverse »

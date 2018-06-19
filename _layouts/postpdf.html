@@ -1,0 +1,19 @@
+---
+layout: post
+---
+
+<!--
+Ce layout va rajouter un lien de téléchargement en tête du post.
+Le telechargement va rechercher le fichier du même nom que le post,
+dans le même sous-dossier, mais en pj, avec l'extension .pdf
+
+S'il n'existe pas, ignore.
+
+Xavier
+-->
+
+
+{% capture downloadfile %}{{page.path | replace_first: "_posts","pj" | replace: ".md",".pdf" | relative_url}}{% endcapture %}
+<a href={{downloadfile}} target='_blank'>T&eacute;l&eacute;charger </a> la m&eacute;ditation.
+<br/>
+{{ content }}

@@ -1,11 +1,9 @@
 ---
 title: "Lundi de la 9ème semaine du temps ordinaire"
-layout: post
+layout: postpdf
 categories: semaine
 tags: 2P1 Ps90 Marc12,1-12
 ---
-
-[Télécharger]({{site.baseurl}}pj/2018-06-04_Messe_du_lundi_4_juin_2018.pdf) la méditation du 4 juin 2018
 
 ## Première lecture (2 P 1, 2-7)
 « Les dons promis, si précieux, nous sont accordés,

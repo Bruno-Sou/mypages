@@ -1,11 +1,9 @@
 ---
 title: "1er Dimanche de l'Avent 2017"
-layout: post
+layout: postpdf
 categories: dimanche_ou_fete
 tags: Is63 Ps79-80 1Co1 Marc13  
 ---
-
-[Télécharger]({{site.baseurl}}pj/2017-12-03_Messe_du_1er_dimanche_de_l_Avent_3_déc_2017.pdf) méditation du 3 décembre 2017
 
 ## Première lecture (Is 63, 16b-17.19b ; 64, 2b-7)
 « Ah ! Si tu déchirais les cieux, si tu descendais ! »

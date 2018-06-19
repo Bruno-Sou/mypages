@@ -1,11 +1,9 @@
 ---
 title: "Mercredi de la 9ème semaine du temps ordinaire"
-layout: post
+layout: postpdf
 categories: semaine
 tags: 2Timothée Ps122-123 Marc12  
 ---
-
-[Télécharger]({{site.baseurl}}pj/2018-06-06_Messe_du_mercredi_6_juin_2018.pdf) méditation du 6 juin 2018
 
 ## Première lecture (2 Tm 1, 1-3 ; 6-12)
 « Ravive le don gratuit de Dieu, ce don qui est en toi depuis que je t’ai imposé les mains »
