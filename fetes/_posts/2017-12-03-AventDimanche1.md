@@ -1,7 +1,6 @@
 ---
 title: "1er Dimanche de l'Avent 2017"
 layout: postpdf
-categories: dimanche_ou_fete
 tags: Is63 Ps79-80 1Co1 Marc13  
 ---
 

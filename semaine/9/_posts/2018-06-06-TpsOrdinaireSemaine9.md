@@ -1,7 +1,6 @@
 ---
 title: "Mercredi de la 9ème semaine du temps ordinaire"
 layout: postpdf
-categories: semaine
 tags: 2Timothée Ps122-123 Marc12  
 ---
 

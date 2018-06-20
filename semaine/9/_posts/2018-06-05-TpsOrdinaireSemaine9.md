@@ -1,7 +1,6 @@
 ---
 title: "Mardi de la 9ème semaine du temps ordinaire"
 layout: postpdf
-categories: semaine
 tags: 2Pierre3 Ps89-90 Marc12  
 ---
 

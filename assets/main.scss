@@ -7,6 +7,8 @@
 @import "minima";
 
 // variable definitions
+$category_color: #A70E0E;
+$tags_color: #0EA70E;
 
 // custom styling for images
 img[alt~="right"] {
@@ -40,4 +42,17 @@ clearfix::after {
     content: "";
     clear: both;
     display: table;
+}
+
+// Show the category to which the page belongs ...
+span.category {
+    color: $category_color;
+    font-weight: bolder;
+}
+
+// display the declared tags.
+span.tags {
+    color: $tags_color;
+    font-style: italic;
+
 }

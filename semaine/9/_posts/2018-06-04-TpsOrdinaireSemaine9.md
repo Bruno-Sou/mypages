@@ -1,7 +1,6 @@
 ---
 title: "Lundi de la 9ème semaine du temps ordinaire"
 layout: postpdf
-categories: semaine
 tags: 2P1 Ps90 Marc12,1-12
 ---
 

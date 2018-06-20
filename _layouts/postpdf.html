@@ -12,7 +12,16 @@ S'il n'existe pas, ignore.
 Xavier
 -->
 
+{% for cat in page.categories %}
+<span class=category> {{cat | upcase }} </span>
+{% endfor %}
 
+{% for cat in page.tags %}
+<span class=tags> {{cat | capitalize }} </span>
+{% endfor %}
+
+
+<br/>
 {% capture downloadfile %}{{page.path | replace_first: "_posts","pj" | replace: ".md",".pdf" | relative_url}}{% endcapture %}
 <a href={{downloadfile}} target='_blank'>T&eacute;l&eacute;charger </a> la m&eacute;ditation.
 <br/>

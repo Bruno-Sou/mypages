@@ -1,7 +1,6 @@
 ---
 title: "Vendredi_de_la_8ème_semaine_du_temps_ordinaire"
 layout: postpdf
-categories: semaine
 tags: 1Pierre Ps95-96 Marc  
 ---
 

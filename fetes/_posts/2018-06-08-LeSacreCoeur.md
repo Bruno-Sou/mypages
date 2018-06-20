@@ -1,7 +1,6 @@
 ---
 title: "Fête du Sacré Cœur année B"
 layout: postpdf
-categories: fetes
 tags: Osée11 Isaie12-Eph3 Jn19
 ---
 

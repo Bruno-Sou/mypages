@@ -1,7 +1,6 @@
 ---
 title: "Mercredi de la 10ème semaine"
 layout: postpdf
-categories: semaine
 tags: 1Rois18 Ps15-16 Mt5
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Samedi de la 8ème semaine du temps ordinaire"
 layout: postpdf
-categories: semaine
 tags: Jude Ps62-63 Marc11,27-33  
 ---
 
