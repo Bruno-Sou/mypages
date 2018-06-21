@@ -1,0 +1,8 @@
+<!-- Xavier : propose de naviguer vers les posts suivants/precedents -->
+{% if page.previous %}
+  <a href="{{ page.previous.url | relative_url }}">Précédent</a>
+{% endif %}
+&nbsp;
+{% if page.next %}
+<a href="{{ page.next.url | relative_url }}">Suivant</a>
+{% endif %}
