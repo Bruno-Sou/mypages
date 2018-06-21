@@ -1,10 +1,10 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-// Written by xavier268 - 17/6/2018
+// Written by xavier268 - 21/6/2018
 
 // Importying theme stylesheet
-@import "minima";
+@import "{{ site.theme }}";
 
 // variable definitions
 $category_color: #A70E0E;
