@@ -3,8 +3,9 @@
 ---
 // Written by xavier268 - 21/6/2018
 
-// Importying theme stylesheet
-@import "{{ site.theme }}";
+// Importing theme stylesheet
+// @import "{{ site.theme }}";
+@import "minima";
 
 // variable definitions
 $category_color: #A70E0E;
