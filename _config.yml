@@ -25,7 +25,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima # <- this was hard-copied and serves as basis for customization
+# theme: jekyll-theme-primer # <- this is the default when not speciied
+
 plugins:
   - jekyll-feed
 
@@ -53,7 +55,10 @@ defaults:
     values:
       list_title: "Dernières homélies"
 
-# Set compression for Sass
+# Set compression for Sass(xavier)
 sass:
   style: compressed
   sass_dir: _sass
+
+# define site language, used for sea (xavier)
+lang: fr
