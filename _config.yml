@@ -55,4 +55,5 @@ defaults:
 
 # Set compression for Sass
 sass:
-  style: :compressed
+  style: compressed
+  sass_dir: _sass
