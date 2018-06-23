@@ -52,3 +52,7 @@ defaults:
       type: "pages"
     values:
       list_title: "Dernières homélies"
+
+# Set compression for Sass
+sass:
+  style: :compressed
