@@ -2,8 +2,7 @@
 title: "Dimanche 24 juin, Nativité de St Jean-Baptiste"
 layout: post
 categories: dimanche
-tags: Jér1 Ps70-71 1P1 Lc1
-  
+tags: Jér1 Ps70-71 1P1 Lc1 Is 49, 1-6	Ps 138-139	Ac13 
 ---
 
 ## MESSE DE LA VEILLE AU SOIR
