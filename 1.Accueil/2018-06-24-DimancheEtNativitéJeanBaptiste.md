@@ -139,7 +139,7 @@ je fais de toi la lumière des nations, pour que mon salut parvienne jusqu’aux
 R/ Je te rends grâce, ô mon Dieu, pour tant de merveilles
 
 Tu me scrutes, Seigneur, et tu sais !
-Tu sais quand je m’assois, quand je me lève ;
+#Tu sais quand je m’assois, quand je me lève ;
 de très loin, Tu pénètres mes pensées,
 tous mes chemins te sont familiers.
 
@@ -169,7 +169,7 @@ Vous, frères, les fils de la lignée d’Abraham et ceux parmi vous qui craigne
 c’est à nous que la parole du salut a été envoyée. »
 – Parole du Seigneur. 
 
-Acclamation (Lc 1, 76)
+## Acclamation (Lc 1, 76)
 
 Toi, petit enfant, tu seras appelé prophète du Très-Haut :
 tu marcheras devant, en présence du Seigneur, et tu prépareras Ses chemins.
