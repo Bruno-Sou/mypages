@@ -5,7 +5,8 @@ tags: 2Timothée Ps122-123 Marc12
 ---
 
 ## Première lecture (2 Tm 1, 1-3 ; 6-12)
-« Ravive le don gratuit de Dieu, ce don qui est en toi depuis que je t’ai imposé les mains »
+
+*« Ravive le don gratuit de Dieu, ce don qui est en toi depuis que je t’ai imposé les mains »*
 
 Paul, apôtre du Christ Jésus par la volonté de Dieu,
 selon la promesse de la vie que nous avons dans le Christ Jésus,
@@ -33,10 +34,10 @@ pour lequel j’ai reçu la charge de messager, d’apôtre et d’enseignant.
 Et c’est pour cette raison que je souffre ainsi ;
 mais je n’en ai pas honte, car je sais en qui j’ai cru,
 et j’ai la conviction qu’Il est assez puissant pour sauvegarder, jusqu’au jour de Sa venue,
-le dépôt de la foi qu’Il m’a confié.
-            – Parole du Seigneur.
+le dépôt de la foi qu’Il m’a confié.  – Parole du Seigneur.
 
 ## Psaume Ps 122 (123), 1-2ab, 2cdef
+
 R/ Vers Toi, Seigneur, j’ai les yeux levés
 
 Vers Toi j’ai les yeux levés,
@@ -51,12 +52,14 @@ attendent Sa pitié.
 
 
 ## Acclamation (cf. Jn 11, 25a-26)
+
 Moi, je suis la résurrection et la vie, dit le Seigneur.
 Celui qui croit en moi ne mourra jamais.
 Alléluia.
 
 ## Évangile (Mc 12, 18-27)
-« Il n’est pas le Dieu des morts, mais des vivants »
+
+*« Il n’est pas le Dieu des morts, mais des vivants »*
 
 Des sadducéens – ceux qui affirment qu’il n’y a pas de résurrection – vinrent trouver Jésus.
 Ils l’interrogeaient :

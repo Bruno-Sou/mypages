@@ -5,7 +5,8 @@ tags: 2Pierre3 Ps89-90 Marc12
 ---
 
 ## Première lecture (2 P 3, 12-15a.17-18)
-« Ce que nous attendons, c’est un ciel nouveau et une terre nouvelle »
+
+*« Ce que nous attendons, c’est un ciel nouveau et une terre nouvelle »*
 
 Bien-aimés, vous attendez et vous hâtez l’avènement du jour de Dieu,
 ce jour où les cieux enflammés seront dissous, où les éléments embrasés seront en fusion.
@@ -19,10 +20,10 @@ ne vous laissez pas entraîner dans l’égarement des gens dévoyés,
 et n’abandonnez pas l’attitude de fermeté qui est la vôtre.
 Mais continuez à grandir dans la grâce et la connaissance de notre Seigneur et Sauveur, Jésus Christ.
 À Lui la gloire, dès maintenant et jusqu’au jour de l’éternité.
-Amen.
-            – Parole du Seigneur.
+Amen. – Parole du Seigneur.
 
 ## Psaume Ps 89 (90), 2, 3-4, 10, 14.16
+
 R/ D’âge en âge, Seigneur, tu as été notre refuge
 
 Avant que naissent les montagnes,
@@ -46,12 +47,14 @@ Fais connaître Ton œuvre à Tes serviteurs
 et Ta splendeur à leurs fils !
 
 ## Acclamation (cf. Ep 1, 17-18)
+
 Que le Père de notre Seigneur Jésus Christ ouvre à sa lumière les yeux de notre cœur,
 pour que nous percevions l’espérance que donne Son appel.
 Alléluia.
 
 ## Évangile (Mc 12, 13-17)
-« Ce qui est à César, rendez-le à César, et à Dieu ce qui est à Dieu. »
+
+*« Ce qui est à César, rendez-le à César, et à Dieu ce qui est à Dieu. »*
 
 On envoya à Jésus des pharisiens et des partisans d’Hérode
 pour lui tendre un piège en Le faisant parler, et ceux-ci vinrent lui dire :
@@ -70,4 +73,4 @@ Ils en apportèrent une, et Jésus leur dit :
 – De César », répondent-ils. Jésus leur dit :
 « Ce qui est à César, rendez-le à César, et à Dieu ce qui est à Dieu. »
 Et ils étaient remplis d’étonnement à son sujet.
-            – Acclamons la Parole de Dieu.
+– Acclamons la Parole de Dieu.

@@ -5,8 +5,9 @@ tags: 2P1 Ps90 Marc12,1-12
 ---
 
 ## Première lecture (2 P 1, 2-7)
-« Les dons promis, si précieux, nous sont accordés,
-pour que, par eux, vous deveniez participants de la nature divine »
+
+*« Les dons promis, si précieux, nous sont accordés,
+pour que, par eux, vous deveniez participants de la nature divine »*
 
 Bien-aimés, que la grâce et la paix vous soient accordées en abondance
 par la vraie connaissance de Dieu et de Jésus notre Seigneur.Sa puissance divine nous a fait don de tout ce qui permet de vivre avec piété,
@@ -16,7 +17,8 @@ pour que, par eux, vous deveniez participants de la nature divine,
 et que vous échappiez à la dégradation produite dans le monde par la convoitise.
 
 Et pour ces motifs, faites tous vos efforts pour joindre
--	à votre foi la vertu,-	à la vertu la connaissance de Dieu,
+-	à votre foi la vertu,
+-	à la vertu la connaissance de Dieu,
 -	à la connaissance de Dieu la maîtrise de soi,
 -	à la maîtrise de soi la persévérance,
 -	à la persévérance la piété,
@@ -25,6 +27,7 @@ Et pour ces motifs, faites tous vos efforts pour joindre
             – Parole du Seigneur.
 
 ## Psaume Ps 90, 1-2, 14-15ab, 15c-16
+
 R/ Mon Dieu, je suis sûr de toi !
 
 Quand je me tiens sous l’abri du Très-Haut
@@ -42,12 +45,14 @@ de longs jours, je veux le rassasier,
 et je ferai qu’il voie mon salut. »
 
 ## Acclamation (cf. Ap 1, 5ab)
+
 Jésus Christ, témoin fidèle, premier-né d’entre les morts,
 Tu nous aimes, et par Ton sang Tu nous délivres du péché.
 Alléluia.
 
 ## Evangile (Mc 12, 1-12)
-« Ils se saisirent du fils bien-aimé, le tuèrent, et le jetèrent hors de la vigne »
+
+*« Ils se saisirent du fils bien-aimé, le tuèrent, et le jetèrent hors de la vigne »*
 
 Jésus se mit à parler en paraboles aux chefs des prêtres, aux scribes et aux anciens :
 « Un homme planta une vigne, il l’entoura d’une clôture, y creusa un pressoir et y bâtit une tour de garde.
@@ -70,10 +75,11 @@ c’est là l’œuvre du Seigneur, la merveille devant nos yeux ! »
 Les chefs du peuple cherchaient à arrêter Jésus, mais ils eurent peur de la foule.
 – Ils avaient bien compris en effet qu’il avait dit la parabole à leur intention.
 Ils le laissèrent donc et s’en allèrent.
-            – Acclamons la Parole de Dieu.
+– Acclamons la Parole de Dieu.
 
 ## Le même récit dans l’évangile selon St Luc (chapitre 24)
-aelf.org (traduction de la liturgie catholique)
+
+*aelf.org (traduction de la liturgie catholique)*
 
 9 Il se mit à dire au peuple la parabole que voici :
 « Un homme planta une vigne, loua celle-ci à des vignerons et partit en voyage pour un temps assez long.
@@ -91,7 +97,8 @@ Je vais envoyer mon fils bien-aimé : peut-être que lui, ils le respecteront !�
 “Voici l’héritier. Tuons-le, pour que l’héritage soit à nous.”
 15 Et, après l’avoir jeté hors de la vigne, ils le tuèrent.
 
-Que leur fera donc le maître de la vigne ? 16 Il viendra, fera périr ces vignerons et donnera la vigne à d’autres. »
+Que leur fera donc le maître de la vigne ?
+16 Il viendra, fera périr ces vignerons et donnera la vigne à d’autres. »
 Les auditeurs dirent à Jésus : « Pourvu que cela n’arrive pas ! »
 17 Mais lui, posant son regard sur eux, leur dit :
 « Que signifie donc ce qui est écrit ? La pierre qu’ont rejetée les bâtisseurs est devenue la pierre d’angle.

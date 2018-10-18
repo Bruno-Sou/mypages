@@ -5,7 +5,8 @@ tags: 2Timothée Ps24-25 Marc12
 ---
 
 ## Première lecture (2 Tm 2, 8-15)
-« On n’enchaîne pas la parole de Dieu ! Si nous sommes morts avec le Christ, avec lui nous vivrons »
+
+*« On n’enchaîne pas la parole de Dieu ! Si nous sommes morts avec le Christ, avec lui nous vivrons »*
 
 Bien-aimé, souviens-toi de Jésus Christ, ressuscité d’entre les morts, le descendant de David :
 voilà mon Évangile.
@@ -14,7 +15,7 @@ Mais on n’enchaîne pas la parole de Dieu !
 C’est pourquoi je supporte tout pour ceux que Dieu a choisis,
 afin qu’ils obtiennent, eux aussi, le salut qui est dans le Christ Jésus, avec la gloire éternelle.
 
-    Voici une parole digne de foi :
+Voici une parole digne de foi :
 Si nous sommes morts avec Lui, avec Lui nous vivrons.
 Si nous supportons l’épreuve, avec Lui nous régnerons.
 Si nous Le rejetons, Lui aussi nous rejettera.
@@ -29,6 +30,7 @@ un ouvrier qui n’a pas à rougir de ce qu’il a fait et qui trace tout droit 
 – Parole du Seigneur.
 
 ## Psaume Ps 24 (25), 4-5ab, 8-9, 10.14
+
 R/ Seigneur, enseigne-moi tes voies
 
 Seigneur, enseigne-moi Tes voies,
@@ -53,7 +55,8 @@ Il a fait resplendir la vie par l’Évangile.
 Alléluia.
 
 ## Évangile (Mc 12, 28b-34)
-« Il n’y a pas de commandement plus grand que ceux-là »
+
+*« Il n’y a pas de commandement plus grand que ceux-là »*
 
 En ce temps-là, un scribe s’avança pour demander à Jésus :
 « Quel est le premier de tous les commandements ? »

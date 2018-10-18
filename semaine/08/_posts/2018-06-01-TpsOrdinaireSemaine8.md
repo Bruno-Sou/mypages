@@ -5,7 +5,8 @@ tags: 1Pierre Ps95-96 Marc
 ---
 
 ## Première lecture (1 P 4, 7-13)
-« Soyez de bons gérants de la grâce de Dieu qui est si diverse »
+
+*« Soyez de bons gérants de la grâce de Dieu qui est si diverse »*
 
 Bien-aimés, la fin de toutes choses est proche.
 Soyez donc raisonnables et sobres en vue de la prière.
@@ -24,7 +25,7 @@ Bien-aimés, ne trouvez pas étrange le brasier allumé parmi vous pour vous met
 ce qui vous arrive n’a rien d’étrange.
 Dans la mesure où vous communiez aux souffrances du Christ, réjouissez-vous,
 afin d’être dans la joie et l’allégresse quand Sa gloire se révélera.
-            – Parole du Seigneur.
+– Parole du Seigneur.
 
 
 ## Psaume Ps 95 (96), 10, 11-12a, 12b-13ab, 13bcd

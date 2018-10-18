@@ -16,8 +16,8 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span> &nbsp;
-        <span class=category> {{ post.categories |  join: ' ' | capitalize }} </span> &nbsp;
-        <span class=tag> {{ post.tags | join: " " }} </span>
+        <span class=category> {{ post.categories |  join: ' ' | upcase }} </span> &nbsp;
+        <span class=tags> {{ post.tags  | join: ', ' | capitalize  }} </span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
