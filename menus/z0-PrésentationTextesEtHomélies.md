@@ -21,4 +21,33 @@ J'invite le lecteur qui veut en savoir plus sur l'interprétation habituelle don
 
 Ce site est construit à l'aide de GitHub et du langage d'édition Jekyll.
 
+## Accès par temps liturgique
+
+{% assign cats = site.categories | sort %}
+{% for category in cats %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+    <li><a  href="{{ post.url | relative_url }}">
+      {{ post.title | escape }}
+    </a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+## Accès par référence biblique
+
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+    <li><a  href="{{ post.url | relative_url }}">
+      {{ post.title | escape }}
+    </a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+
 [aelf.org]: https://www.aelf.org
