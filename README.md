@@ -8,6 +8,10 @@
     - une ligne proposant le téléchargement du pdf est automatiquement ajoutée - **attention** : Le nom du fichier doit être le même, à l'extension près. Si le fichier dans **_post** était __2018-06-04-toto.md__ alors le pdf dans **pj** doit s'appeller __2018-06-04-toto.pdf__.
     - ainsi que l'affichage des catégories (déduites du nom des sous-dossiers successifs) et des tags (tels que spécifiés dans le fichier).
 
+## Adresse des Pages
+
+Les pages se trouvent à [https://bruno-sou.github.io/mypages/](https://bruno-sou.github.io/mypages/)
+
 
 ## Welcome to GitHub Pages
 
