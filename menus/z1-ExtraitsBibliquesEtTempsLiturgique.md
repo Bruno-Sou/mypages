@@ -2,7 +2,6 @@
 title: "Temps liturgique"
 layout: page
 # title:  "Le Temps Liturgique pour découvrir ou méditer la Bible par petit morceaux cohérents"
-excerpt: "ceci est la bande annonce"
 permalink: /temps_liturgique/
 ---
 

@@ -21,30 +21,39 @@ J'invite le lecteur qui veut en savoir plus sur l'interprétation habituelle don
 
 Ce site est construit à l'aide de GitHub et du langage d'édition Jekyll.
 
-## Accès par temps liturgique
+### Accès par temps liturgique
+
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
 {% assign cats = site.categories | sort %}
+
 {% for category in cats %}
-  <h3>{{ category[0] }}</h3>
+  <h4>{{ category[0] }}</h4>
   <ul>
     {% for post in category[1] %}
-    <li><a  href="{{ post.url | relative_url }}">
-      {{ post.title | escape }}
-    </a></li>
+    <li>
+      <a  href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+      <span class="post-meta">({{ post.date | date: date_format }})</span>
+    </li>
     {% endfor %}
   </ul>
 {% endfor %}
 
-## Accès par référence biblique
+### Accès par référence biblique
 
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
-  <h3>{{ tag[0] }}</h3>
+  <h4>{{ tag[0] }}</h4>
   <ul>
     {% for post in tag[1] %}
-    <li><a  href="{{ post.url | relative_url }}">
-      {{ post.title | escape }}
-    </a></li>
+    <li>
+      <a  href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+      <span class="post-meta">({{ post.date | date: date_format }})</span>
+    </li>
     {% endfor %}
   </ul>
 {% endfor %}
