@@ -1,5 +1,5 @@
 ---
-title: "Temps liturgique"
+title: "Le temps liturgique"
 layout: page
 # title:  "Le Temps Liturgique pour découvrir ou méditer la Bible par petit morceaux cohérents"
 permalink: /temps_liturgique/
@@ -33,3 +33,23 @@ Les textes ne changent pas d'une année à l'autre pour les autres périodes du 
 ni pour les messes de fêtes ou en l'honneur des saints.
 
 On choisit les textes qu'on veut pour les messes de mariage, de profession solennelle ou d'obsèques.
+
+### Accès par temps liturgique
+
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
+{% assign cats = site.categories | sort %}
+
+{% for category in cats %}
+  <h4>{{ category[0] }}</h4>
+  <ul>
+    {% for post in category[1] %}
+    <li>
+      <a  href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+      <span class="post-meta">({{ post.date | date: date_format }})</span>
+    </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

@@ -1,9 +1,8 @@
 ---
 layout: page
-title:  "Plan"
+title:  "La Bible"
 date:   2018-06-06
-categories: Plan
-permalink: /plan/
+permalink: /bible/
 ---
 
 Les textes sont présentés dans la traduction de la liturgie catholique (cf. [aelf.org]
@@ -21,25 +20,6 @@ J'invite le lecteur qui veut en savoir plus sur l'interprétation habituelle don
 
 Ce site est construit à l'aide de GitHub et du langage d'édition Jekyll.
 
-### Accès par temps liturgique
-
-{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-
-{% assign cats = site.categories | sort %}
-
-{% for category in cats %}
-  <h4>{{ category[0] }}</h4>
-  <ul>
-    {% for post in category[1] %}
-    <li>
-      <a  href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-      <span class="post-meta">({{ post.date | date: date_format }})</span>
-    </li>
-    {% endfor %}
-  </ul>
-{% endfor %}
 
 ### Accès par référence biblique
 
